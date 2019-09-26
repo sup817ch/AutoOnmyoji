@@ -41,3 +41,9 @@
 # 后记
 
 初衷是为了护肝，所以写了这个脚本。python是临时学的，挂机脚本也是第一次写，所以代码比较乱。如果有人愿意看我的代码并且加以改善的话我将不胜感激。
+
+
+
+# Notice
+
+此脚本估计不会再更新，有需要者请移步[**onmyoji_bot**](https://github.com/AcademicDog/onmyoji_bot)。
